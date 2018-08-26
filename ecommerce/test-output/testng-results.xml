@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Test started & running : customerRegistration]]>
+    </line>
+    <line>
+      <![CDATA[Test Success : customerRegistration]]>
+    </line>
+    <line>
+      <![CDATA[<a href=' G:\Karthik\Selenium\Se_LiveProjectJune2018\ecommerce\src\main\java\com\automation\ecommerce\passedScreens\ customerRegistration 26-Aug-2018__04_32_34PM.png'><img src=' G:\Karthik\Selenium\Se_LiveProjectJune2018\ecommerce\src\main\java\com\automation\ecommerce\passedScreens\ customerRegistration 26-Aug-2018__04_32_34PM.png 'height='100'  width='100'/></a>]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="51471" started-at="2018-08-26T11:01:44Z" finished-at="2018-08-26T11:02:35Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="51471" started-at="2018-08-26T11:01:44Z" finished-at="2018-08-26T11:02:35Z">
+      <class name="com.automation.ecommerce.homePage.TC001_CustomerRegistration">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.automation.ecommerce.homePage.TC001_CustomerRegistration@6950e31]" name="setUp" is-config="true" duration-ms="22552" started-at="2018-08-26T11:01:44Z" finished-at="2018-08-26T11:02:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="startReport(java.lang.reflect.Method)[pri:0, instance:com.automation.ecommerce.homePage.TC001_CustomerRegistration@6950e31]" name="startReport" is-config="true" duration-ms="344" started-at="2018-08-26T11:02:06Z" finished-at="2018-08-26T11:02:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.automation.ecommerce.homePage.TC001_CustomerRegistration.customerRegistration() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method status="PASS" signature="customerRegistration()[pri:0, instance:com.automation.ecommerce.homePage.TC001_CustomerRegistration@6950e31]" name="customerRegistration" duration-ms="21758" started-at="2018-08-26T11:02:07Z" finished-at="2018-08-26T11:02:28Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Test started & running : customerRegistration]]>
+            </line>
+            <line>
+              <![CDATA[Test Success : customerRegistration]]>
+            </line>
+            <line>
+              <![CDATA[<a href=' G:\Karthik\Selenium\Se_LiveProjectJune2018\ecommerce\src\main\java\com\automation\ecommerce\passedScreens\ customerRegistration 26-Aug-2018__04_32_34PM.png'><img src=' G:\Karthik\Selenium\Se_LiveProjectJune2018\ecommerce\src\main\java\com\automation\ecommerce\passedScreens\ customerRegistration 26-Aug-2018__04_32_34PM.png 'height='100'  width='100'/></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- customerRegistration -->
+        <test-method status="PASS" signature="endReport(org.testng.ITestResult)[pri:0, instance:com.automation.ecommerce.homePage.TC001_CustomerRegistration@6950e31]" name="endReport" is-config="true" duration-ms="821" started-at="2018-08-26T11:02:34Z" finished-at="2018-08-26T11:02:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=customerRegistration status=SUCCESS method=TC001_CustomerRegistration.customerRegistration()[pri:0, instance:com.automation.ecommerce.homePage.TC001_CustomerRegistration@6950e31] output=Test started & running : customerRegistration]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.automation.ecommerce.homePage.TC001_CustomerRegistration@6950e31]" name="endTest" is-config="true" duration-ms="704" started-at="2018-08-26T11:02:34Z" finished-at="2018-08-26T11:02:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- com.automation.ecommerce.homePage.TC001_CustomerRegistration -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
