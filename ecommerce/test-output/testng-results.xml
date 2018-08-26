@@ -8,19 +8,19 @@
       <![CDATA[Test Success : customerRegistration]]>
     </line>
     <line>
-      <![CDATA[<a href=' G:\Karthik\Selenium\Se_LiveProjectJune2018\ecommerce\src\main\java\com\automation\ecommerce\passedScreens\ customerRegistration 26-Aug-2018__04_32_34PM.png'><img src=' G:\Karthik\Selenium\Se_LiveProjectJune2018\ecommerce\src\main\java\com\automation\ecommerce\passedScreens\ customerRegistration 26-Aug-2018__04_32_34PM.png 'height='100'  width='100'/></a>]]>
+      <![CDATA[<a href=' C:\Users\N S K Anil Kumar\git\SeleniumMaven\ecommerce\src\main\java\com\automation\ecommerce\passedScreens\ customerRegistration 26-Aug-2018__07_09_56PM.png'><img src=' C:\Users\N S K Anil Kumar\git\SeleniumMaven\ecommerce\src\main\java\com\automation\ecommerce\passedScreens\ customerRegistration 26-Aug-2018__07_09_56PM.png 'height='100'  width='100'/></a>]]>
     </line>
   </reporter-output>
-  <suite name="Suite" duration-ms="51471" started-at="2018-08-26T11:01:44Z" finished-at="2018-08-26T11:02:35Z">
+  <suite name="Suite" duration-ms="50938" started-at="2018-08-26T13:39:09Z" finished-at="2018-08-26T13:40:00Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="51471" started-at="2018-08-26T11:01:44Z" finished-at="2018-08-26T11:02:35Z">
+    <test name="Test" duration-ms="50938" started-at="2018-08-26T13:39:09Z" finished-at="2018-08-26T13:40:00Z">
       <class name="com.automation.ecommerce.homePage.TC001_CustomerRegistration">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.automation.ecommerce.homePage.TC001_CustomerRegistration@6950e31]" name="setUp" is-config="true" duration-ms="22552" started-at="2018-08-26T11:01:44Z" finished-at="2018-08-26T11:02:06Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.automation.ecommerce.homePage.TC001_CustomerRegistration@6950e31]" name="setUp" is-config="true" duration-ms="23762" started-at="2018-08-26T13:39:09Z" finished-at="2018-08-26T13:39:33Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="startReport(java.lang.reflect.Method)[pri:0, instance:com.automation.ecommerce.homePage.TC001_CustomerRegistration@6950e31]" name="startReport" is-config="true" duration-ms="344" started-at="2018-08-26T11:02:06Z" finished-at="2018-08-26T11:02:07Z">
+        <test-method status="PASS" signature="startReport(java.lang.reflect.Method)[pri:0, instance:com.automation.ecommerce.homePage.TC001_CustomerRegistration@6950e31]" name="startReport" is-config="true" duration-ms="808" started-at="2018-08-26T13:39:33Z" finished-at="2018-08-26T13:39:34Z">
           <params>
             <param index="0">
               <value>
@@ -31,7 +31,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- startReport -->
-        <test-method status="PASS" signature="customerRegistration()[pri:0, instance:com.automation.ecommerce.homePage.TC001_CustomerRegistration@6950e31]" name="customerRegistration" duration-ms="21758" started-at="2018-08-26T11:02:07Z" finished-at="2018-08-26T11:02:28Z">
+        <test-method status="PASS" signature="customerRegistration()[pri:0, instance:com.automation.ecommerce.homePage.TC001_CustomerRegistration@6950e31]" name="customerRegistration" duration-ms="19073" started-at="2018-08-26T13:39:34Z" finished-at="2018-08-26T13:39:53Z">
           <reporter-output>
             <line>
               <![CDATA[Test started & running : customerRegistration]]>
@@ -40,11 +40,11 @@
               <![CDATA[Test Success : customerRegistration]]>
             </line>
             <line>
-              <![CDATA[<a href=' G:\Karthik\Selenium\Se_LiveProjectJune2018\ecommerce\src\main\java\com\automation\ecommerce\passedScreens\ customerRegistration 26-Aug-2018__04_32_34PM.png'><img src=' G:\Karthik\Selenium\Se_LiveProjectJune2018\ecommerce\src\main\java\com\automation\ecommerce\passedScreens\ customerRegistration 26-Aug-2018__04_32_34PM.png 'height='100'  width='100'/></a>]]>
+              <![CDATA[<a href=' C:\Users\N S K Anil Kumar\git\SeleniumMaven\ecommerce\src\main\java\com\automation\ecommerce\passedScreens\ customerRegistration 26-Aug-2018__07_09_56PM.png'><img src=' C:\Users\N S K Anil Kumar\git\SeleniumMaven\ecommerce\src\main\java\com\automation\ecommerce\passedScreens\ customerRegistration 26-Aug-2018__07_09_56PM.png 'height='100'  width='100'/></a>]]>
             </line>
           </reporter-output>
         </test-method> <!-- customerRegistration -->
-        <test-method status="PASS" signature="endReport(org.testng.ITestResult)[pri:0, instance:com.automation.ecommerce.homePage.TC001_CustomerRegistration@6950e31]" name="endReport" is-config="true" duration-ms="821" started-at="2018-08-26T11:02:34Z" finished-at="2018-08-26T11:02:34Z">
+        <test-method status="PASS" signature="endReport(org.testng.ITestResult)[pri:0, instance:com.automation.ecommerce.homePage.TC001_CustomerRegistration@6950e31]" name="endReport" is-config="true" duration-ms="831" started-at="2018-08-26T13:39:57Z" finished-at="2018-08-26T13:39:58Z">
           <params>
             <param index="0">
               <value>
@@ -55,7 +55,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- endReport -->
-        <test-method status="PASS" signature="endTest()[pri:0, instance:com.automation.ecommerce.homePage.TC001_CustomerRegistration@6950e31]" name="endTest" is-config="true" duration-ms="704" started-at="2018-08-26T11:02:34Z" finished-at="2018-08-26T11:02:35Z">
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.automation.ecommerce.homePage.TC001_CustomerRegistration@6950e31]" name="endTest" is-config="true" duration-ms="1745" started-at="2018-08-26T13:39:58Z" finished-at="2018-08-26T13:40:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- endTest -->
